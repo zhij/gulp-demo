@@ -1,0 +1,7 @@
+body {
+  background-color: #ccc;
+  transform: translate(-50%);
+}
+body a {
+  color: aqua;
+}
